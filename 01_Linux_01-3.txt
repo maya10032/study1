@@ -18,3 +18,4 @@ $ grep zz 03_Linux/sample5/sample1/test1.txt
 $ rm -rf sample5 sample1 sample6 ディレクトリを強制削除する。
 $ mv text1.txt text2.txt ※ファイルが存在しない場合はmvはリネームになる
 $ rm -rf sample2 sample4
+終わり
