@@ -1,0 +1,11 @@
+① 03_Linux上の複数のディレクトリ全てを一括削除する。
+② 練習問題01-3以前までの階層群をコマンドで今いる階層にダウンロードする。zipフォルダを解凍すると同時にZipフォルダを削除し、今回のプロジェクトルートに移動する。
+③ 「sample5>sample1>test1.txt」に「fizzbuzz」を追記する。
+④ 「sample5>sample1>test1.txt」をコンソール上に画面を切り替え無しの簡易表示をする。
+⑤ 「sample5」の中の「zz」が含まれるファイルと行数を検索表示する。
+⑥ 「sample5>sample1>sample6」ディレクトリを強制削除する。
+⑦ 「sample5」の中の「test1.txt」を「test2.txt」に名前を変更する。
+⑧ 「sample5」ディレクトリを「sample6」ディレクトリに名前を変更する。
+⑨ 「sample6」の中を見て「sample1」と「test2.txt」が存在してるか確認する。
+⑩ 「sample6」を強制削除する。
+⑪ 「sample2」と「sample4」も全て強制削除する。
