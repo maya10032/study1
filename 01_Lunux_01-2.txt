@@ -10,3 +10,4 @@
 
 →　cp ../sample4/text1.txt text1.txt
 ※ cp コピーしたいファイル名 コピー後のファイル名
+※回答済み
