@@ -9,3 +9,12 @@
 ⑨ 「sample6」の中を見て「sample1」と「test2.txt」が存在してるか確認する。
 ⑩ 「sample6」を強制削除する。
 ⑪ 「sample2」と「sample4」も全て強制削除する。
+
+一括削除：03_Linux直下にいき　rm -rf 
+ c 03_Linux/sample5/sample1/test1.txt 開く
+ $ cat 03_Linux/sample5/sample1/test1.txt 
+fizzbuzz　（簡易表示）
+$ grep zz 03_Linux/sample5/sample1/test1.txt 
+$ rm -rf sample5 sample1 sample6 ディレクトリを強制削除する。
+$ mv text1.txt text2.txt ※ファイルが存在しない場合はmvはリネームになる
+$ rm -rf sample2 sample4
