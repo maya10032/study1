@@ -1,0 +1,12 @@
+以下の操作を全て「プロジェクトルート(03_Linux直下)」からコマンド操作で行う。出来る限りコマンドを思い出しながら作業し、忘れたら上に戻って確認し直す。
+① 03_Linux直下に「sample5」ディレクトリを作成する。
+② 「sample4>test1.txt」ファイルのみをsample5にコピーする。
+③ また「sample2>sample1」の中に「sample6」ディレクトリを作成する。
+④ 「sample2>sample1>sapmle6」の中に「test3.txt」ファイルを新規作成する。
+⑤ 「sample2>sample1」丸ごとを「sample5」にコピーする。
+⑥ 「sample5」の中を見て「sample1」と「test1.txt」が存在してるか確認する。
+⑦ 現階層から全ての「sample1」ディレクトを検索する。
+⑧ 「sample5」内の第1階層までの「1.txt」で終わる名前のファイルを検索する。
+
+→　cp ../sample4/text1.txt text1.txt
+※ cp コピーしたいファイル名 コピー後のファイル名
